@@ -6,7 +6,7 @@ In this mini-project, you will build a landing page using HTML and CSS. While yo
 
 Work in your group to implement the following user stories:
 
-* As a client, I want to view a single webpage that collects a visitor's contact information. (done)
+* As a client, I want to view a single webpage that collects a visitor's contact information. (done except this requires JavaScript)
 
 * As a client, I want the landing page to have a header and footer. (done)
 
@@ -40,7 +40,7 @@ Work in your group to implement the following user stories:
 
 * It's done when the image includes a descriptive `alt` attribute. (done)
 
-* It's done when the page is deployed to GitHub Pages. (not done)
+* It's done when the page is deployed to GitHub Pages. (done)
 
 ## 💡 Notes
 
