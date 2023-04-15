@@ -81,7 +81,7 @@ form {
   margin: 0 auto;
   width: 500px;
   padding: 10px;
-  border: 5px solid #b2c4c1;
+  border: 5px solid #b3c1ba;
   border-radius: 20px;
 }
 
@@ -107,7 +107,7 @@ button {
   margin: 20px;
   height: 40px;
   width: 120px;
-  background-color: #9ebf99;
+  background-color: #b3c1ba;
   color: #FDF8F5;
 }
  
