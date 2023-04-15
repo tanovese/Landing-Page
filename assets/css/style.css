@@ -7,7 +7,7 @@
 /* Element Selectors */
 body {
   position: relative;
-  font-family: "Goudy Bookletter 1911", "Times New Roman";
+  font-family: "Anuphan", "Times New Roman";
   font-size: 20px;
   background-color: whitesmoke;
   color: rgb(75, 63, 63);
@@ -42,7 +42,7 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: lightslategray;
+  background-color: #b3c1ba;
 }
 
 header {
@@ -73,7 +73,7 @@ section {
   margin-bottom: 0;
   padding: 20px 10px 40px 10px;
   border-top: 3px solid whitesmoke;
-  background-color: #b5d0dd;
+  background-color: #cfe0e8;
 }
 
 form {
